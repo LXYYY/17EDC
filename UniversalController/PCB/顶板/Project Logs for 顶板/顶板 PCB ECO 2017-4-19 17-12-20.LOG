@@ -1,0 +1,6 @@
+Added Component: Designator=H3(H4)
+Added Pin To Net: NetName=VCC-3.3V Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=USART3_RX Pin=H3-3
+Added Pin To Net: NetName=USART3_TX Pin=H3-4
+Added Member To Class: ClassName=¶¥°å Member=Component H3 H4

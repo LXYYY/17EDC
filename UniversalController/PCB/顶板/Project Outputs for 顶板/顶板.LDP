@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\2017年国赛准备\遥控器（上下两层板）\顶板\顶板.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=顶板-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=顶板-slotholes.txt|DrillLayers=gtl,gbl

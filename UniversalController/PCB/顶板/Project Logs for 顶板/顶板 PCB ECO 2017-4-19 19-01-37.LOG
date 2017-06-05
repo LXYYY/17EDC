@@ -1,0 +1,5 @@
+Added Component: Designator=S1(SWITCH)
+Added Pin To Net: NetName=NetC3_2 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Member To Class: ClassName=¶¥°å Member=Component P2 Header 2X2
+Added Member To Class: ClassName=¶¥°å Member=Component S1 SWITCH

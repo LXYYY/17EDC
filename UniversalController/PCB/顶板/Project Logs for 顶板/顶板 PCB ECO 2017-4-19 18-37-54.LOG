@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Added Component: Designator=P2(HDR2X2)
+Added Pin To Net: NetName=CAN-RX Pin=P2-1
+Added Pin To Net: NetName=CAN-TX Pin=P2-2
+Added Pin To Net: NetName=CAN-RX Pin=P2-3
+Added Pin To Net: NetName=CAN-TX Pin=P2-4
+Added Member To Class: ClassName=¶¥°å Member=Component P4 Header 2X2
